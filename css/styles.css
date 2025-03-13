@@ -1154,7 +1154,9 @@ textarea.form-control {
   
   .btn {
     padding: 10px 25px;
+    margin-bottom: 20px;
   }
+  .btn.outline {margin-bottom: 0;}
   
   .service-card {
     max-width: 350px;
